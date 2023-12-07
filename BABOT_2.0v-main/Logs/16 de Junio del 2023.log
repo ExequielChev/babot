@@ -1,0 +1,3952 @@
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:06:55.304729
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx', 'Distribuidas_Externos-Internos_OC_1.xlsx', 'Distribuidas_Externos-Internos_OC_2.xlsx', 'Distribuidas_Externos-Internos_OC_3.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_1.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_1.xlsx
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_2.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_2.xlsx
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_3.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_3.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 193.0 Minutos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:43:16.057083
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 38.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:44:41.848826
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs2
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs2
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:/Python/BABOT_2.0v/Inputs2'
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:49:48.215402
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs2
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs2
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'str' object is not callable
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:51:11.136419
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs2
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs2
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'str' object is not callable
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:52:56.980796
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs2
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs2
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: cannot access local variable 'df_completo' where it is not associated with a value
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 6.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:53:23.039088
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'PATH_ENTRADA_0002'
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:57:11.620132
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'PATH_ENTRADA_0002'
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 16:59:28.988775
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'PATH_ENTRADA_0002'
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:00:17.722017
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+La clave PATH_ENTRADA_0002 no está presente en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= None
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+ERROR-    No se ha especificado la variable PATH_ENTRADA_0002 (str). PATH_ENTRADA_0002="C/PATH/FOLDER/INPUT"
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: cannot access local variable 'df_completo' where it is not associated with a value
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 5.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:02:20.949580
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+La clave PATH_ENTRADA_0002 no está presente en el diccionario.
+La clave PATH_SALIDA_0002 esta en el diccionario.
+La clave NAME_0002 esta en el diccionario.
+La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= None
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+ERROR-    No se ha especificado la variable PATH_ENTRADA_0002 (str). PATH_ENTRADA_0002="C/PATH/FOLDER/INPUT"
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: cannot access local variable 'df_completo' where it is not associated with a value
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 3.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:03:02.255956
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+La clave PATH_ENTRADA_0002 no está presente en el diccionario.
+La clave PATH_SALIDA_0002 esta en el diccionario.
+La clave NAME_0002 esta en el diccionario.
+La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= None
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: cannot access local variable 'df_completo' where it is not associated with a value
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:05:56.601161
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'str' object is not callable
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:06:43.169308
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+La clave PATH_SALIDA_0002 esta en el diccionario.
+La clave NAME_0002 esta en el diccionario.
+La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= None
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: cannot access local variable 'df_completo' where it is not associated with a value
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 49.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:07:52.405992
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+La clave PATH_ENTRADA_0002 esta en el diccionario.
+La clave PATH_SALIDA_0002 esta en el diccionario.
+La clave NAME_0002 esta en el diccionario.
+La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 36.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:20:11.221325
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas
+    EXPORT_0002= FALSE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 8.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:22:35.629699
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Error al eliminar el archivo C:/Python/BABOT_2.0v/Outputs\pruebas: [WinError 5] Acceso denegado: 'C:/Python/BABOT_2.0v/Outputs\\pruebas'
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 37.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:24:04.123234
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Error al eliminar el archivo C:/Python/BABOT_2.0v/Outputs\pruebas: [WinError 5] Acceso denegado: 'C:/Python/BABOT_2.0v/Outputs\\pruebas'
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/pruebas/asd-pruebas/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:24:55.069199
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Error al eliminar el archivo C:/Python/BABOT_2.0v/Outputs\pruebas: [WinError 5] Acceso denegado: 'C:/Python/BABOT_2.0v/Outputs\\pruebas'
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:30:12.545487
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Error al eliminar el archivo C:/Python/BABOT_2.0v/Outputs\pruebas: [WinError 5] Acceso denegado: 'C:/Python/BABOT_2.0v/Outputs\\pruebas'
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:31:10.654457
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Error al eliminar el archivo C:/Python/BABOT_2.0v/Outputs\pruebas: [WinError 5] Acceso denegado: 'C:/Python/BABOT_2.0v/Outputs\\pruebas'
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:34:37.295515
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+
+    No se encontró la función SIN_ASIGNAR
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:41:04.284702
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+    No se encontró la función CONFIGURACION DE PASOS DEL ASISTENTE
+
+    No se encontró la función nan
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'PATH_SALIDA_0001'
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:41:38.889565
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+No se encontró la función CONFIGURACION DE PASOS DEL ASISTENTE
+
+No se encontró la función nan
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'PATH_SALIDA_0001'
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 17:50:21.644765
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:23:02.041521
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: 'PATH_SALIDA_0001'
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:24:41.621599
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: cannot access local variable 'continuar' where it is not associated with a value
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:25:11.278864
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 7.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:25:36.031987
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 6.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:53:15.932159
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 3.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:53:41.605482
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Archivo_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+ERROR | IMPORTAR_DATAFRAME_0003 | El archivo no existe en la ruta especificada.
+    Finalizando funcion..
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:56:13.736581
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Archivo_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Finalizando funcion..
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 13.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 18:59:01.295352
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Archivo_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Finalizando funcion..
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 12.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:04:22.421936
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:06:15.043432
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= FALSE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx.
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:06:45.952199
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:08:47.096895
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+Para que la funcion "IMPORTAR_DATAFRAME_0003" se active debe colocar "TRUE" en la variable "ACTIVE_0003" del archivo de configuraciones.
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:13:54.067105
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    Para que la funcion "IMPORTAR_DATAFRAME_0003" se active debe colocar "TRUE" en la variable "ACTIVE_0003" del archivo de configuraciones.
+    Finalizando funcion...
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 1.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:14:13.950905
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+    Para que la funcion "IMPORTAR_DATAFRAME_0003" se active debe colocar "TRUE" en la variable "ACTIVE_0003" del archivo de configuraciones.
+    Finalizando funcion...
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:15:02.819223
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+
+
+
+
+
+
+
+    Pasos asignados: 18
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 34.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:42:53.281940
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+
+
+
+
+
+
+    Pasos asignados: 23
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 12.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:43:35.790182
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= FALSE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    No se pudo ejecutar la funcion IniciarProceso. Detalle: name 'df_excel' is not defined
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 19:58:49.242081
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= FALSE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+DataFrame creado exitosamente. Funcion de importacion: IMPORTAR_DATAFRAME_0003
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+    Pasos asignados: 24
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:04:44.892016
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= UNIFICADOR_TABLAS_0002
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= FALSE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx', 'Distribuidas_Externos-Internos_OC_1.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_1.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_1.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+Se intenta obtener el DataFrame de entrada con la funcion: UNIFICADOR_TABLAS_0002
+DataFrame creado exitosamente.
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:06:25.577152
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= UNIFICADOR_TABLAS_0002
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= TRUE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx', 'Distribuidas_Externos-Internos_OC_1.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_1.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_1.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+Se intenta obtener el DataFrame de entrada con la funcion: UNIFICADOR_TABLAS_0002
+DataFrame creado exitosamente.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:07:37.214787
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_COLUMNA_0004.xlsx eliminado correctamente.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= UNIFICADOR_TABLAS_0002
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= TRUE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx', 'Distribuidas_Externos-Internos_OC_1.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_1.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_1.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+Se intenta obtener el DataFrame de entrada con la funcion: UNIFICADOR_TABLAS_0002
+DataFrame creado exitosamente.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:09:22.413439
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_COLUMNA_0004.xlsx eliminado correctamente.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= UNIFICADOR_TABLAS_0002
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= TRUE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+ ** Ejecutando UNIFICADOR_TABLAS_0002.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    La clave PATH_SALIDA_0002 esta en el diccionario.
+    La clave NAME_0002 esta en el diccionario.
+    La clave EXPORT_0002 esta en el diccionario.
+    Ejecutando Funcion UNIFICADOR_TABLAS...
+    PATH_ENTRADA_0002= C:/Python/BABOT_2.0v/Inputs
+    PATH_SALIDA_0002= C:/Python/BABOT_2.0v/Outputs
+    EXPORT_0002= TRUE
+    ACTIVE_0002= TRUE
+    NAME_0002= Unificado.xlsx
+    Recolectar todos los archivos .xlsx de la carpeta: C:/Python/BABOT_2.0v/Inputs
+    La carpeta "C:/Python/BABOT_2.0v/Inputs" existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivos a procesar: ['Distribuidas_Externos-Internos_OC_0.xlsx', 'Distribuidas_Externos-Internos_OC_1.xlsx']
+    Creando DataFrame en pandas...
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_0.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_0.xlsx
+    Archivo a procesar: Distribuidas_Externos-Internos_OC_1.xlsx
+    Procesado exitosamente: Distribuidas_Externos-Internos_OC_1.xlsx
+    Todos los archivos fueron procesados.
+    Todos los archivos .xlsx se han unido en "C:/Python/BABOT_2.0v/Outputs/Unificado.xlsx".
+
+ ** Finalizando UNIFICADOR_TABLAS_0002.. **
+    Se intenta obtener el DataFrame de entrada con la funcion: UNIFICADOR_TABLAS_0002
+    DataFrame creado exitosamente.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:20:32.997028
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_COLUMNA_0004.xlsx eliminado correctamente.
+    Archivo C:/Python/BABOT_2.0v/Outputs\Unificado.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= UNIFICADOR_TABLAS_0002
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= TRUE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 4.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:20:57.775681
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= TRUE
+    NAME_0004= Distribuidas Externos-Internos
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Distribuidas Externos-Internos
+    La hoja Distribuidas Externos-Internos Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 0.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:53:08.584886
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= TRUE
+    NAME_0004= Distribuidas Externos-Internos
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Distribuidas Externos-Internos
+    La hoja Distribuidas Externos-Internos Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importarà la columna "Recurso_123" de la hoja "Distribuidas Externos-Internos" del archivo "C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx"
+Importado exitosamente.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 55.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:54:15.229186
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso_123
+    EXPORT_0004= TRUE
+    NAME_0004= Distribuidas Externos-Internos
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Distribuidas Externos-Internos
+    La hoja Distribuidas Externos-Internos Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importarà la columna "Recurso_123" de la hoja "Distribuidas Externos-Internos" del archivo "C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx"
+Importado exitosamente.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 11.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:54:59.142683
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso
+    EXPORT_0004= TRUE
+    NAME_0004= Distribuidas Externos-Internos
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx, Hoja: Distribuidas Externos-Internos
+    La hoja Distribuidas Externos-Internos Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importarà la columna "Recurso" de la hoja "Distribuidas Externos-Internos" del archivo "C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_0.xlsx"
+Importado exitosamente.
+La columna con encabezado "Recurso" existe en el DataFrame.
+    Incorporando columna "{COLUMN_IMPORT_0004}"...
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 3.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:56:29.969775
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Recurso
+    EXPORT_0004= TRUE
+    NAME_0004= Distribuidas Externos-Internos
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 4.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:56:53.516262
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedades
+    EXPORT_0004= TRUE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 3.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:57:15.975326
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedades
+    EXPORT_0004= TRUE
+    NAME_0004= Hoja1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Hoja1
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 2.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:57:29.381421
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedades
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importarà la columna "Sociedades" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 4.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:57:42.291029
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedades
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Finalizando funcion..
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 10.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:58:51.250662
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    No se han encontrado archivos en la carpeta C:/Python/BABOT_2.0v/Outputs
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedades
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importarà la columna "Sociedades" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 2.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:59:14.667440
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importarà la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 8.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 20:59:47.524622
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importarà la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 6.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 21:00:45.969378
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importará la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 4.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 21:01:44.054043
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importará la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+La columna con encabezado "Sociedad" existe en el DataFrame.
+    Incorporando columna "{COLUMN_IMPORT_0004}"...
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 3.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 21:04:17.338048
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importará la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+La columna con encabezado "Sociedad" existe en el DataFrame.
+    Incorporando columna "{COLUMN_IMPORT_0004}"...
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 2.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 21:05:36.080680
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importará la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+Importado exitosamente.
+La columna con encabezado "Sociedad" existe en el DataFrame.
+    Incorporando columna "{COLUMN_IMPORT_0004}"...
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 1.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 21:08:06.486413
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_COLUMNA_0004.xlsx eliminado correctamente.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importará la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+    Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+    Importado exitosamente.
+    La columna con encabezado "Sociedad" existe en el DataFrame.
+    Incorporando columna "{COLUMN_IMPORT_0004}"...
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx".
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 1.0 Segundos
+  ¡ Bienvenido ! - BABOT 2.0v
+
+  Comenzando proceso....
+
+  Proceso: KAT-001 
+
+  Fecha: 2023-06-16 21:09:34.269337
+
+  Logs: C:/Python/BABOT_2.0v/Logs\16 de Junio del 2023.log
+
+  Settings: C:\Python\BABOT_2.0v\config\settings.xlsx
+
+
+    ----------------------------------------
+    Inicio de proceso
+    ----------------------------------------
+    Importando modulo Steps..
+
+ ** Ejecutando LIMPIAR_OUTPUT_0001.. **
+
+    La clave ACTIVE_0002 esta en el diccionario.
+    La clave PATH_ENTRADA_0002 esta en el diccionario.
+    Ha seteado la variable -ACTIVE_0002- como -TRUE- se eliminarán los archivos de la carpeta: C:/Python/BABOT_2.0v/Outputs.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_COLUMNA_0004.xlsx eliminado correctamente.
+    Archivo C:/Python/BABOT_2.0v/Outputs\IMPORTAR_DATAFRAME_0003.xlsx eliminado correctamente.
+
+ ** Finalizando LIMPIAR_OUTPUT_0001.. **
+
+ ** Ejecutando IMPORTAR_COLUMNA_0004.. **
+
+    La clave ACTIVE_0004 esta en el diccionario.
+
+    DATAFRAME_INPUT_0004= IMPORTAR_DATAFRAME_0003
+    PATH_ENTRADA_0004= C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx
+    FOLDER_OUTPUT_0004= C:/Python/BABOT_2.0v/Outputs
+    COLUMN_IMPORT_0004= Sociedad
+    EXPORT_0004= TRUE
+    NAME_0004= Sheet1
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx, Hoja: Sheet1
+    La hoja Sheet1 Existe.
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Se intenta obtener el DataFrame de entrada con la funcion: IMPORTAR_DATAFRAME_0003
+ ** Ejecutando IMPORTAR_DATAFRAME_0003.. **
+
+    La clave ACTIVE_0003 esta en el diccionario.
+
+    PATH_ENTRADA_0003= C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx
+    PATH_SALIDA_0003= C:/Python/BABOT_2.0v/Outputs
+    HOJA_0003= Distribuidas Externos-Internos
+    TYPE_0003= XLSX
+    ACTIVE_0003= TRUE
+    EXPORT_0003= TRUE
+
+    Importar DataFrame del archivo: C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx, Hoja: Distribuidas Externos-Internos
+    verificando existencia de la carpeta: C:/Python/BABOT_2.0v/Outputs.En caso que no exisitiese se procede a crearla.
+    Creando data frame en pandas.
+    La hoja Distribuidas Externos-Internos existe en el archivo C:/Python/BABOT_2.0v/Inputs/Distribuidas_Externos-Internos_OC_1.xlsx.
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_DATAFRAME_0003.xlsx".
+
+ ** Finalizando IMPORTAR_DATAFRAME_0003.. **
+
+    DataFrame creado exitosamente.
+    Se Importará la columna "Sociedad" de la hoja "Sheet1" del archivo "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx".
+    Importando excel "C:/Python/BABOT_2.0v/Inputs/Sociedades/EKKO.xlsx"
+    Importado exitosamente.
+    La columna con encabezado "Sociedad" existe en el DataFrame.
+    Incorporando columna "{COLUMN_IMPORT_0004}"...
+    Se exportará el archivo unificado en la carpeta: C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx
+    Exportando... "C:/Python/BABOT_2.0v/Outputs/IMPORTAR_COLUMNA_0004.xlsx".
+
+ ** Finalizando IMPORTAR_COLUMNA_0004.. **
+
+
+
+
+
+
+
+
+
+    Pasos asignados: 25
+    ----------------------------------------
+    Fin de proceso
+    ----------------------------------------
+    Tiempo de ejecución: 1.0 Segundos
